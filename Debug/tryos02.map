@@ -1,0 +1,644 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              ./boot/reset_hdr.o (__aeabi_uidiv)
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              ./boot/reset_hdr.o (__aeabi_uldivmod)
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                              C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                              C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o) (__clzdi2)
+C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o) (__clzsi2)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./kernel/context.o
+ .group         0x00000000        0xc ./kernel/context.o
+ .group         0x00000000        0xc ./kernel/context.o
+ .group         0x00000000        0xc ./kernel/context.o
+ .group         0x00000000        0xc ./kernel/context.o
+ .group         0x00000000        0xc ./kernel/context.o
+ .data          0x00000000        0x0 ./kernel/context.o
+ .bss           0x00000000        0x0 ./kernel/context.o
+ .data          0x00000000        0x0 ./kernel/dispatch.o
+ .bss           0x00000000        0x0 ./kernel/dispatch.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/inittsk.o
+ .debug_macro   0x00000000      0xa96 ./kernel/inittsk.o
+ .debug_macro   0x00000000      0x34e ./kernel/inittsk.o
+ .debug_macro   0x00000000       0x16 ./kernel/inittsk.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/inittsk.o
+ .debug_macro   0x00000000       0x28 ./kernel/inittsk.o
+ .debug_macro   0x00000000       0x16 ./kernel/inittsk.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/scheduler.o
+ .data          0x00000000        0x0 ./kernel/scheduler.o
+ .debug_macro   0x00000000      0xa96 ./kernel/scheduler.o
+ .debug_macro   0x00000000      0x34e ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x16 ./kernel/scheduler.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x28 ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x16 ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x8e ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x16 ./kernel/scheduler.o
+ .debug_macro   0x00000000       0x3a ./kernel/scheduler.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/syslib.o
+ .data          0x00000000        0x0 ./kernel/syslib.o
+ .bss           0x00000000        0x0 ./kernel/syslib.o
+ .debug_macro   0x00000000      0xa96 ./kernel/syslib.o
+ .debug_macro   0x00000000      0x34e ./kernel/syslib.o
+ .debug_macro   0x00000000       0x16 ./kernel/syslib.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/syslib.o
+ .debug_macro   0x00000000       0x28 ./kernel/syslib.o
+ .debug_macro   0x00000000       0x16 ./kernel/syslib.o
+ .debug_macro   0x00000000       0x8e ./kernel/syslib.o
+ .debug_macro   0x00000000       0x16 ./kernel/syslib.o
+ .debug_macro   0x00000000       0x3a ./kernel/syslib.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/systimer.o
+ .data          0x00000000        0x0 ./kernel/systimer.o
+ .debug_macro   0x00000000      0xa96 ./kernel/systimer.o
+ .debug_macro   0x00000000      0x34e ./kernel/systimer.o
+ .debug_macro   0x00000000       0x16 ./kernel/systimer.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/systimer.o
+ .debug_macro   0x00000000       0x28 ./kernel/systimer.o
+ .debug_macro   0x00000000       0x16 ./kernel/systimer.o
+ .debug_macro   0x00000000       0x8e ./kernel/systimer.o
+ .debug_macro   0x00000000       0x16 ./kernel/systimer.o
+ .debug_macro   0x00000000       0x3a ./kernel/systimer.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_mange.o
+ .data          0x00000000        0x0 ./kernel/task_mange.o
+ .debug_macro   0x00000000      0xa96 ./kernel/task_mange.o
+ .debug_macro   0x00000000      0x34e ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_mange.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x28 ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x8e ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_mange.o
+ .debug_macro   0x00000000       0x3a ./kernel/task_mange.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_queue.o
+ .data          0x00000000        0x0 ./kernel/task_queue.o
+ .bss           0x00000000        0x0 ./kernel/task_queue.o
+ .debug_macro   0x00000000      0xa96 ./kernel/task_queue.o
+ .debug_macro   0x00000000      0x34e ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_queue.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x28 ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x8e ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_queue.o
+ .debug_macro   0x00000000       0x3a ./kernel/task_queue.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .group         0x00000000        0xc ./kernel/task_sync.o
+ .data          0x00000000        0x0 ./kernel/task_sync.o
+ .bss           0x00000000        0x0 ./kernel/task_sync.o
+ .debug_macro   0x00000000      0xa96 ./kernel/task_sync.o
+ .debug_macro   0x00000000      0x34e ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_sync.o
+ .debug_macro   0x00000000      0x2f9 ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x28 ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x8e ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x16 ./kernel/task_sync.o
+ .debug_macro   0x00000000       0x3a ./kernel/task_sync.o
+ .group         0x00000000        0xc ./boot/boot2.o
+ .text          0x00000000        0x0 ./boot/boot2.o
+ .data          0x00000000        0x0 ./boot/boot2.o
+ .bss           0x00000000        0x0 ./boot/boot2.o
+ .debug_macro   0x00000000      0xa96 ./boot/boot2.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/reset_hdr.o
+ .data          0x00000000        0x0 ./boot/reset_hdr.o
+ .bss           0x00000000        0x0 ./boot/reset_hdr.o
+ .debug_macro   0x00000000      0xa96 ./boot/reset_hdr.o
+ .debug_macro   0x00000000      0x34e ./boot/reset_hdr.o
+ .debug_macro   0x00000000       0x16 ./boot/reset_hdr.o
+ .debug_macro   0x00000000      0x2f9 ./boot/reset_hdr.o
+ .debug_macro   0x00000000       0x28 ./boot/reset_hdr.o
+ .debug_macro   0x00000000       0x16 ./boot/reset_hdr.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./boot/vector_tbl.o
+ .data          0x00000000        0x0 ./boot/vector_tbl.o
+ .bss           0x00000000        0x0 ./boot/vector_tbl.o
+ .debug_macro   0x00000000      0xa96 ./boot/vector_tbl.o
+ .debug_macro   0x00000000      0x34e ./boot/vector_tbl.o
+ .debug_macro   0x00000000       0x16 ./boot/vector_tbl.o
+ .debug_macro   0x00000000      0x2f9 ./boot/vector_tbl.o
+ .debug_macro   0x00000000       0x28 ./boot/vector_tbl.o
+ .debug_macro   0x00000000       0x16 ./boot/vector_tbl.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .group         0x00000000        0xc ./application/usermain.o
+ .debug_macro   0x00000000      0xa96 ./application/usermain.o
+ .debug_macro   0x00000000      0x34e ./application/usermain.o
+ .debug_macro   0x00000000       0x16 ./application/usermain.o
+ .debug_macro   0x00000000      0x2f9 ./application/usermain.o
+ .debug_macro   0x00000000       0x28 ./application/usermain.o
+ .debug_macro   0x00000000       0x16 ./application/usermain.o
+ .debug_macro   0x00000000       0x8e ./application/usermain.o
+ .debug_macro   0x00000000       0x16 ./application/usermain.o
+ .debug_macro   0x00000000       0x3a ./application/usermain.o
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .data          0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x10000000         0x00200000         xr
+RAM              0x20000000         0x00040000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./kernel/context.o
+LOAD ./kernel/dispatch.o
+LOAD ./kernel/inittsk.o
+LOAD ./kernel/scheduler.o
+LOAD ./kernel/syslib.o
+LOAD ./kernel/systimer.o
+LOAD ./kernel/task_mange.o
+LOAD ./kernel/task_queue.o
+LOAD ./kernel/task_sync.o
+LOAD ./boot/boot2.o
+LOAD ./boot/reset_hdr.o
+LOAD ./boot/vector_tbl.o
+LOAD ./application/usermain.o
+START GROUP
+LOAD C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+
+boot2           0x10000000      0x100
+                0x10000000                        __boot2_start__ = .
+ *(.boot2)
+ .boot2         0x10000000      0x100 ./boot/boot2.o
+                0x10000000                boot2
+                0x10000100                        __boot2_end__ = .
+                0x00000001                        ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
+
+.text           0x10000100     0x11cb
+                0x10000100                        __vector_org = .
+ *(.vector)
+ .vector        0x10000100       0xbc ./boot/vector_tbl.o
+                0x10000100                vector_tbl
+ *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .text*)
+ .text          0x100001bc       0x38 ./kernel/context.o
+                0x100001bc                make_context
+ .text          0x100001f4       0x68 ./kernel/dispatch.o
+                0x100001f4                dispatch_entry
+ .text          0x1000025c       0x54 ./kernel/inittsk.o
+                0x1000025c                initsk
+                0x10000288                main
+ .text          0x100002b0       0xa8 ./kernel/scheduler.o
+                0x100002e4                scheduler
+ .text          0x10000358       0xc8 ./kernel/syslib.o
+                0x10000384                tm_com_init
+                0x100003cc                tm_putstring
+ .text          0x10000420       0x8c ./kernel/systimer.o
+                0x10000420                systimer_handler
+ .text          0x100004ac      0x234 ./kernel/task_mange.o
+                0x100004d8                tk_cre_tsk
+                0x100005f4                tk_sta_tsk
+                0x10000694                tk_ext_tsk
+ .text          0x100006e0       0xd2 ./kernel/task_queue.o
+                0x100006e0                tqueue_add_entry
+                0x1000072a                tqueue_remove_top
+                0x10000764                tqueue_remove_entry
+ *fill*         0x100007b2        0x2 
+ .text          0x100007b4       0xb4 ./kernel/task_sync.o
+                0x100007e0                tk_dly_tsk
+ .text          0x10000868      0x648 ./boot/reset_hdr.o
+                0x10000e6c                Reset_Handler
+ .text          0x10000eb0        0x6 ./boot/vector_tbl.o
+                0x10000eb0                Default_Handler
+ *fill*         0x10000eb6        0x2 
+ .text          0x10000eb8       0xb4 ./application/usermain.o
+                0x10000ed0                task_1
+                0x10000ef8                task_2
+                0x10000f1c                usermain
+                0x10000f6c                        __start = .
+ *(.text)
+ .text          0x10000f6c      0x114 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x10000f6c                __aeabi_uidiv
+                0x10000f6c                __udivsi3
+                0x10001078                __aeabi_uidivmod
+ .text          0x10001080        0x4 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x10001080                __aeabi_idiv0
+                0x10001080                __aeabi_ldiv0
+ .text          0x10001084       0x40 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x10001084                __aeabi_uldivmod
+ .text          0x100010c4       0x18 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                0x100010c4                __clzdi2
+ .text          0x100010dc       0x3c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x100010dc                __clzsi2
+ *(.text.*)
+ .text.__udivmoddi4
+                0x10001118      0x198 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x10001118                __udivmoddi4
+ *(.rodata)
+ .rodata        0x100012b0       0x12 ./kernel/inittsk.o
+ *fill*         0x100012c2        0x2 
+ .rodata        0x100012c4        0x7 ./application/usermain.o
+ *(.rodata.*)
+
+.glue_7         0x100012cc        0x0
+ .glue_7        0x100012cc        0x0 linker stubs
+
+.glue_7t        0x100012cc        0x0
+ .glue_7t       0x100012cc        0x0 linker stubs
+
+.vfp11_veneer   0x100012cc        0x0
+ .vfp11_veneer  0x100012cc        0x0 linker stubs
+
+.v4_bx          0x100012cc        0x0
+ .v4_bx         0x100012cc        0x0 linker stubs
+
+.iplt           0x100012cc        0x0
+ .iplt          0x100012cc        0x0 ./kernel/dispatch.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x100012cb                        __exidx_start = .
+
+.ARM.exidx      0x100012cc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text.__udivmoddi4
+                0x100012cc        0x8 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x100012d4                        __exidx_end = .
+                0x100012d4                        __data_org = .
+
+.rel.dyn        0x100012d4        0x0
+ .rel.iplt      0x100012d4        0x0 ./kernel/dispatch.o
+
+.data           0x20000000       0x3c load address 0x100012d4
+                0x20000000                        __data_start = .
+ *(.data)
+ .data          0x20000000       0x14 ./kernel/inittsk.o
+                0x20000000                ctsk_ini
+ .data          0x20000014       0x28 ./application/usermain.o
+                0x20000014                ctsk_1
+                0x20000028                ctsk_2
+ *(.data.*)
+                0x2000003c                        . = ALIGN (0x4)
+                0x2000003c                        __data_end = .
+
+.igot.plt       0x2000003c        0x0 load address 0x10001310
+ .igot.plt      0x2000003c        0x0 ./kernel/dispatch.o
+
+.bss            0x2000003c      0xedc load address 0x10001310
+                0x2000003c                        __bss_start = .
+ *(.bss)
+ .bss           0x2000003c      0x104 ./kernel/inittsk.o
+                0x2000003c                tskstk_ini
+                0x2000013c                tskid_ini
+ .bss           0x20000140       0x4c ./kernel/scheduler.o
+                0x20000140                ready_queue
+                0x20000180                cur_task
+                0x20000184                sche_task
+                0x20000188                disp_running
+ .bss           0x2000018c        0x4 ./kernel/systimer.o
+                0x2000018c                wait_queue
+ .bss           0x20000190      0x580 ./kernel/task_mange.o
+                0x20000190                tcb_tbl
+ .bss           0x20000710      0x808 ./application/usermain.o
+                0x20000710                tskstk_1
+                0x20000b10                tskid_1
+                0x20000b14                tskstk_2
+                0x20000f14                tskid_2
+ *(.bss.*)
+ *(COMMON)
+                0x20000f18                        . = ALIGN (0x4)
+                0x20000f18                        __bss_end = .
+                0x20000f18                        __end = .
+OUTPUT(tryos02.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x2132
+ .debug_info    0x00000000      0x171 ./kernel/context.o
+ .debug_info    0x00000171       0x24 ./kernel/dispatch.o
+ .debug_info    0x00000195      0x24e ./kernel/inittsk.o
+ .debug_info    0x000003e3      0x2de ./kernel/scheduler.o
+ .debug_info    0x000006c1      0x154 ./kernel/syslib.o
+ .debug_info    0x00000815      0x288 ./kernel/systimer.o
+ .debug_info    0x00000a9d      0x44f ./kernel/task_mange.o
+ .debug_info    0x00000eec      0x29b ./kernel/task_queue.o
+ .debug_info    0x00001187      0x2ed ./kernel/task_sync.o
+ .debug_info    0x00001474       0x5d ./boot/boot2.o
+ .debug_info    0x000014d1      0x3dc ./boot/reset_hdr.o
+ .debug_info    0x000018ad       0xd1 ./boot/vector_tbl.o
+ .debug_info    0x0000197e      0x303 ./application/usermain.o
+ .debug_info    0x00001c81       0x3e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_info    0x00001cbf       0x3c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00001cfb       0x31 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00001d2c      0x3b1 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000020dd       0x24 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_info    0x00002101       0x31 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x00000000     0x10a9
+ .debug_abbrev  0x00000000       0xfe ./kernel/context.o
+ .debug_abbrev  0x000000fe       0x14 ./kernel/dispatch.o
+ .debug_abbrev  0x00000112      0x144 ./kernel/inittsk.o
+ .debug_abbrev  0x00000256      0x19f ./kernel/scheduler.o
+ .debug_abbrev  0x000003f5       0xf7 ./kernel/syslib.o
+ .debug_abbrev  0x000004ec      0x158 ./kernel/systimer.o
+ .debug_abbrev  0x00000644      0x206 ./kernel/task_mange.o
+ .debug_abbrev  0x0000084a      0x150 ./kernel/task_queue.o
+ .debug_abbrev  0x0000099a      0x1a1 ./kernel/task_sync.o
+ .debug_abbrev  0x00000b3b       0x49 ./boot/boot2.o
+ .debug_abbrev  0x00000b84      0x16d ./boot/reset_hdr.o
+ .debug_abbrev  0x00000cf1       0x9a ./boot/vector_tbl.o
+ .debug_abbrev  0x00000d8b      0x14c ./application/usermain.o
+ .debug_abbrev  0x00000ed7       0x28 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00000eff       0x26 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00000f25       0x28 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00000f4d      0x120 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x0000106d       0x14 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x00001081       0x28 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x00000000      0x258
+ .debug_aranges
+                0x00000000       0x20 ./kernel/context.o
+ .debug_aranges
+                0x00000020       0x20 ./kernel/dispatch.o
+ .debug_aranges
+                0x00000040       0x20 ./kernel/inittsk.o
+ .debug_aranges
+                0x00000060       0x20 ./kernel/scheduler.o
+ .debug_aranges
+                0x00000080       0x20 ./kernel/syslib.o
+ .debug_aranges
+                0x000000a0       0x20 ./kernel/systimer.o
+ .debug_aranges
+                0x000000c0       0x20 ./kernel/task_mange.o
+ .debug_aranges
+                0x000000e0       0x20 ./kernel/task_queue.o
+ .debug_aranges
+                0x00000100       0x20 ./kernel/task_sync.o
+ .debug_aranges
+                0x00000120       0x18 ./boot/boot2.o
+ .debug_aranges
+                0x00000138       0x20 ./boot/reset_hdr.o
+ .debug_aranges
+                0x00000158       0x20 ./boot/vector_tbl.o
+ .debug_aranges
+                0x00000178       0x20 ./application/usermain.o
+ .debug_aranges
+                0x00000198       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x000001b8       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x000001d8       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x000001f8       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000218       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x00000238       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_macro    0x00000000     0x1694
+ .debug_macro   0x00000000       0x4e ./kernel/context.o
+ .debug_macro   0x0000004e      0xa96 ./kernel/context.o
+ .debug_macro   0x00000ae4      0x34e ./kernel/context.o
+ .debug_macro   0x00000e32       0x16 ./kernel/context.o
+ .debug_macro   0x00000e48      0x2f9 ./kernel/context.o
+ .debug_macro   0x00001141       0x28 ./kernel/context.o
+ .debug_macro   0x00001169       0x16 ./kernel/context.o
+ .debug_macro   0x0000117f       0x71 ./kernel/inittsk.o
+ .debug_macro   0x000011f0       0x16 ./kernel/inittsk.o
+ .debug_macro   0x00001206       0x8e ./kernel/inittsk.o
+ .debug_macro   0x00001294       0x3a ./kernel/inittsk.o
+ .debug_macro   0x000012ce       0x71 ./kernel/scheduler.o
+ .debug_macro   0x0000133f       0x71 ./kernel/syslib.o
+ .debug_macro   0x000013b0       0x71 ./kernel/systimer.o
+ .debug_macro   0x00001421       0x71 ./kernel/task_mange.o
+ .debug_macro   0x00001492       0x71 ./kernel/task_queue.o
+ .debug_macro   0x00001503       0x71 ./kernel/task_sync.o
+ .debug_macro   0x00001574       0x11 ./boot/boot2.o
+ .debug_macro   0x00001585       0x54 ./boot/reset_hdr.o
+ .debug_macro   0x000015d9       0x4e ./boot/vector_tbl.o
+ .debug_macro   0x00001627       0x6d ./application/usermain.o
+
+.debug_line     0x00000000     0x19fa
+ .debug_line    0x00000000      0x165 ./kernel/context.o
+ .debug_line    0x00000165       0x7b ./kernel/dispatch.o
+ .debug_line    0x000001e0      0x193 ./kernel/inittsk.o
+ .debug_line    0x00000373      0x1d7 ./kernel/scheduler.o
+ .debug_line    0x0000054a      0x1cd ./kernel/syslib.o
+ .debug_line    0x00000717      0x1bf ./kernel/systimer.o
+ .debug_line    0x000008d6      0x298 ./kernel/task_mange.o
+ .debug_line    0x00000b6e      0x1f7 ./kernel/task_queue.o
+ .debug_line    0x00000d65      0x1d0 ./kernel/task_sync.o
+ .debug_line    0x00000f35       0x30 ./boot/boot2.o
+ .debug_line    0x00000f65      0x3d4 ./boot/reset_hdr.o
+ .debug_line    0x00001339      0x14b ./boot/vector_tbl.o
+ .debug_line    0x00001484      0x1c7 ./application/usermain.o
+ .debug_line    0x0000164b       0x56 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_line    0x000016a1       0x4a C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x000016eb       0x55 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00001740      0x208 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00001948       0x54 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_line    0x0000199c       0x5e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_str      0x00000000     0x50dd
+ .debug_str     0x00000000     0x50dd ./kernel/context.o
+                               0x43ed (size before relaxing)
+ .debug_str     0x000050dd       0x52 ./kernel/dispatch.o
+ .debug_str     0x000050dd     0x465a ./kernel/inittsk.o
+ .debug_str     0x000050dd     0x4695 ./kernel/scheduler.o
+ .debug_str     0x000050dd     0x45d9 ./kernel/syslib.o
+ .debug_str     0x000050dd     0x46a1 ./kernel/systimer.o
+ .debug_str     0x000050dd     0x4716 ./kernel/task_mange.o
+ .debug_str     0x000050dd     0x4693 ./kernel/task_queue.o
+ .debug_str     0x000050dd     0x46ce ./kernel/task_sync.o
+ .debug_str     0x000050dd     0x2d21 ./boot/boot2.o
+ .debug_str     0x000050dd     0x4531 ./boot/reset_hdr.o
+ .debug_str     0x000050dd     0x4406 ./boot/vector_tbl.o
+ .debug_str     0x000050dd     0x467a ./application/usermain.o
+ .debug_str     0x000050dd      0x155 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_str     0x000050dd      0x156 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x000050dd      0x14b C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x000050dd      0x70e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_str     0x000050dd      0x13a C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_str     0x000050dd      0x143 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.comment        0x00000000       0x39
+ .comment       0x00000000       0x39 ./kernel/context.o
+                                 0x3a (size before relaxing)
+ .comment       0x00000039       0x3a ./kernel/inittsk.o
+ .comment       0x00000039       0x3a ./kernel/scheduler.o
+ .comment       0x00000039       0x3a ./kernel/syslib.o
+ .comment       0x00000039       0x3a ./kernel/systimer.o
+ .comment       0x00000039       0x3a ./kernel/task_mange.o
+ .comment       0x00000039       0x3a ./kernel/task_queue.o
+ .comment       0x00000039       0x3a ./kernel/task_sync.o
+ .comment       0x00000039       0x3a ./boot/boot2.o
+ .comment       0x00000039       0x3a ./boot/reset_hdr.o
+ .comment       0x00000039       0x3a ./boot/vector_tbl.o
+ .comment       0x00000039       0x3a ./application/usermain.o
+ .comment       0x00000039       0x3a C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./kernel/context.o
+ .ARM.attributes
+                0x0000002c       0x1c ./kernel/dispatch.o
+ .ARM.attributes
+                0x00000048       0x2c ./kernel/inittsk.o
+ .ARM.attributes
+                0x00000074       0x2c ./kernel/scheduler.o
+ .ARM.attributes
+                0x000000a0       0x2c ./kernel/syslib.o
+ .ARM.attributes
+                0x000000cc       0x2c ./kernel/systimer.o
+ .ARM.attributes
+                0x000000f8       0x2c ./kernel/task_mange.o
+ .ARM.attributes
+                0x00000124       0x2c ./kernel/task_queue.o
+ .ARM.attributes
+                0x00000150       0x2c ./kernel/task_sync.o
+ .ARM.attributes
+                0x0000017c       0x2c ./boot/boot2.o
+ .ARM.attributes
+                0x000001a8       0x2c ./boot/reset_hdr.o
+ .ARM.attributes
+                0x000001d4       0x2c ./boot/vector_tbl.o
+ .ARM.attributes
+                0x00000200       0x2c ./application/usermain.o
+ .ARM.attributes
+                0x0000022c       0x1e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000024a       0x1e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000268       0x1e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000286       0x2c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000002b2       0x1e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x000002d0       0x1e C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_frame    0x00000000      0x5f4
+ .debug_frame   0x00000000       0x30 ./kernel/context.o
+ .debug_frame   0x00000030       0x4c ./kernel/inittsk.o
+ .debug_frame   0x0000007c       0x6c ./kernel/scheduler.o
+ .debug_frame   0x000000e8       0x8c ./kernel/syslib.o
+ .debug_frame   0x00000174       0x30 ./kernel/systimer.o
+ .debug_frame   0x000001a4       0xb0 ./kernel/task_mange.o
+ .debug_frame   0x00000254       0x70 ./kernel/task_queue.o
+ .debug_frame   0x000002c4       0x70 ./kernel/task_sync.o
+ .debug_frame   0x00000334      0x1ac ./boot/reset_hdr.o
+ .debug_frame   0x000004e0       0x2c ./boot/vector_tbl.o
+ .debug_frame   0x0000050c       0x8c ./application/usermain.o
+ .debug_frame   0x00000598       0x20 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000005b8       0x3c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+
+.debug_line_str
+                0x00000000      0x17c
+ .debug_line_str
+                0x00000000      0x17c ./kernel/dispatch.o
+                                 0x44 (size before relaxing)
+ .debug_line_str
+                0x0000017c      0x12c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_line_str
+                0x0000017c      0x12c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x0000017c      0x12c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x0000017c      0x12c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .debug_line_str
+                0x0000017c      0x12c C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+
+.debug_loclists
+                0x00000000      0x2dc
+ .debug_loclists
+                0x00000000      0x2dc C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+
+.debug_rnglists
+                0x00000000       0x14
+ .debug_rnglists
+                0x00000000       0x14 C:/Users/sippu/AppData/Roaming/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
