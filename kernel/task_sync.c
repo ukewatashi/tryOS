@@ -52,3 +52,32 @@ ER tk_slp_tsk(TMO tmout)
     EI(intsts); 
     return err;
 }
+
+ER tk_wup_task(ID tskid)
+{
+    TCB     *tcb;
+    UINT    intsts;
+    ER  err = E_OK;
+
+    if (tskid <= 0 || tskid > CNF_MAX_TSKID){
+      return E_ID;
+    }
+
+    DI(intsts);
+    tcb = &tcb_tbl[tskid-1];
+    if ((tcb->state == TS_WAIT) && 
+        (tcb->waifct == TWFCT_SLP)){
+            tqueue_remove_entry(&wait_queue, tcb);
+            tcb->state = TS_READY;
+            tcb->waifct = TWFCT_NON;
+            tqueue_add_entry(&ready_queue[tcb->itskpri],tcb);
+            scheduler();
+    } else if (tcb->state == TS_READY || tcb->waifct == TS_WAIT ){
+        tcb-> wupcnt++;
+    } else{
+        err = E_OBJ;
+    }
+
+    EI(intsts);
+    return err;
+}   
