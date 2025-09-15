@@ -28,3 +28,27 @@ ER tk_dly_tsk( RELTIM dlytim )
     EI(intsts);     // 割込みの許可
     return err;
 }
+
+ER tk_slp_tsk(TMO tmout)
+{
+    UINT   intsts;
+    ER     err = E_OK;
+    
+    DI(intsts);
+    if (cur_tsk->wupcnt > 0){
+        cur_tsk->wupcnt--;
+    }else{
+        tqueue_remove_top(&ready_queue[cur_task->itskpri]);
+
+        /**/
+        cur_task->state = TS_WAIT;
+        cur_task->waifct = TWFCT_SLP;
+        cur_task->waitim = (tmout==TMO_FEVR)?tmout:(tmout+TIMER_PERIOD);
+        cur_task->waierr = &err;
+
+        tqueue_add_entry(&wait_queue, cur_task);
+        scheduler();
+    }
+    EI(intsts); 
+    return err;
+}
